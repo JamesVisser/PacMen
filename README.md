@@ -1,4 +1,5 @@
 # PacMen
+In this repository I changed the name of the main file to indexPac.html so I could embed the file within the pages index file.
 This Project is to show function work on how to create a function factory in javascript.
 The game basically creates a pac image with the press of a button on the top left of the page.The image displays at a random location with every click.
 The start button moves the images at a random direction and velocity. The more clicks the start button located on the top right gets the faster the images move.
